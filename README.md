@@ -1,4 +1,4 @@
 - 👋 Hi, I’m NickKoepr
 - 👀 I’m interested in computers and coding.  
 - 🌱 I’m currently learning Java.
-- 📫 How to reach me: via Twitter (@NickKoepr) or Discord (NickKoepr#5280).
+- 📫 You can reach me via Twitter (@NickKoepr) or Discord (NickKoepr#5280).
