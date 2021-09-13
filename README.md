@@ -2,7 +2,7 @@
 
 [![twitter](https://img.shields.io/badge/Twitter-@NickKoepr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nickkoepr)
 [![website](https://img.shields.io/badge/Website-nickkoepr.nl-01c5c4?style=for-the-badge&logoColor=white)](https://nickkoepr.nl/)
-![discord](https://img.shields.io/badge/Discord-NickKoepr%230001-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![discord](https://img.shields.io/badge/Discord-NickKoepr%233474-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 [![github](https://img.shields.io/badge/github-NickKoepr-383838?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickKoepr)
 
 <hr>
