@@ -7,19 +7,10 @@
 
 <hr>
 
-- I am a hobbyist programmer from the Netherlands. 
-- I am always excited to learn new programming languages and tools. 
-- I make Minecraft plugins, and I am currently learning Kotlin and Android Studio.
-- If you have any questions, feel free to ask me =)
-
 #### Tools and programming languages I know:
 
 ![java](https://img.shields.io/badge/java-2679af?style=for-the-badge&logo=java&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-ab47bc?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
-
-
-#### I am currenly learning:
-
 ![kotlin](https://img.shields.io/badge/Kotlin-e47062?style=for-the-badge&logo=kotlin&logoColor=white)
 ![androidstudio](https://img.shields.io/badge/Android%20Studio-03ad14?style=for-the-badge&logo=androidstudio&logoColor=white)
 
