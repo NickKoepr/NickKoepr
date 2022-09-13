@@ -21,5 +21,3 @@
 #### GitHub stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickkoepr&layout=compact&theme=nord&hide_border=true)](https://github.com/NickKoepr?tab=repositories)
-
-![pagevieuws](http://visitor-badge-reloaded.herokuapp.com/badge?page_id=NickKoepr.NickKoepr&text=page_views&style=for-the-badge)
