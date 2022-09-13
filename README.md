@@ -1,19 +1,22 @@
 # :wave: Hi! I'm Nick
 
-[![twitter](https://img.shields.io/badge/Twitter-@NickKoepr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nickkoepr)
-[![website](https://img.shields.io/badge/Website-nickkoepr.nl-01c5c4?style=for-the-badge&logoColor=white)](https://nickkoepr.nl/)
-![discord](https://img.shields.io/badge/Discord-NickKoepr%233474-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-[![github](https://img.shields.io/badge/github-NickKoepr-383838?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickKoepr)
+[![website](https://img.shields.io/badge/nickkoepr.nl-01c5c4?style=for-the-badge&logoColor=white)](https://nickkoepr.nl/)
+![discord](https://img.shields.io/badge/NickKoepr%233474-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![twitter](https://img.shields.io/badge/@NickKoepr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nickkoepr)
+[![stackoverflow](https://img.shields.io/badge/NickKoepr-C6651F?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17799115/nickkoepr)
+[![github](https://img.shields.io/badge/NickKoepr-383838?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickKoepr)
 
 <hr>
 
-#### Tools and programming languages I know:
+#### languages and tools:
 
 ![java](https://img.shields.io/badge/java-2679af?style=for-the-badge&logo=java&logoColor=white)
-![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-ab47bc?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-e47062?style=for-the-badge&logo=kotlin&logoColor=white)
-![androidstudio](https://img.shields.io/badge/Android%20Studio-03ad14?style=for-the-badge&logo=androidstudio&logoColor=white)
+![python](https://img.shields.io/badge/python-3975A5?style=for-the-badge&logo=python&logoColor=white)
 
+![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-ab47bc?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+![pycharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![androidstudio](https://img.shields.io/badge/Android%20Studio-03ad14?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 #### GitHub stats:
 
