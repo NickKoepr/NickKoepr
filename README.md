@@ -1,8 +1,7 @@
 # :wave: Hi! I'm Nick
 
 [![website](https://img.shields.io/badge/nickkoepr.nl-01c5c4?style=for-the-badge&logoColor=white)](https://nickkoepr.nl/)
-![discord](https://img.shields.io/badge/NickKoepr%233474-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-[![twitter](https://img.shields.io/badge/@NickKoepr-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nickkoepr)
+[![mastodon](https://img.shields.io/badge/@NickKoepr-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@NickKoepr)
 [![stackoverflow](https://img.shields.io/badge/NickKoepr-C6651F?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17799115/nickkoepr)
 [![github](https://img.shields.io/badge/NickKoepr-383838?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NickKoepr)
 
