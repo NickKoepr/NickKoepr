@@ -7,15 +7,19 @@
 
 <hr>
 
-#### languages and tools:
+#### languages and tools I'm leaning and using:
 
 ![java](https://img.shields.io/badge/java-2679af?style=for-the-badge&logo=java&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-e47062?style=for-the-badge&logo=kotlin&logoColor=white)
 ![python](https://img.shields.io/badge/python-3975A5?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-ab47bc?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
 ![androidstudio](https://img.shields.io/badge/Android%20Studio-03ad14?style=for-the-badge&logo=androidstudio&logoColor=white)
+![goland](https://img.shields.io/badge/goland-00ADD8?style=for-the-badge&logo=goland&logoColor=white)
+![linux](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### GitHub stats:
 
