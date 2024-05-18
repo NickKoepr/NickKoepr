@@ -7,7 +7,7 @@
 
 <hr>
 
-#### languages and tools I'm leaning and using:
+#### languages and tools I'm learning and using:
 
 ![java](https://img.shields.io/badge/java-2679af?style=for-the-badge&logo=java&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-e47062?style=for-the-badge&logo=kotlin&logoColor=white)
